@@ -1,5 +1,5 @@
 
-
+///// Teste logico no COMEÇO////
 let c = 1
 while(c <= 8|| c <= 1){
     console.log(`Comer ${c}`)

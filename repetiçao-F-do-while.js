@@ -1,3 +1,6 @@
+
+//// Teste logico no FINAL////
+
 var c = 1
 do{
     console.log(`Comer ${c}`)
